@@ -1,9 +1,5 @@
-<script type="text/javascript">
-// JavaScript example
-
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
-</script>
-okay
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 
 ## KaTeX test
 
