@@ -1,4 +1,4 @@
-The [CodeCogs](https://www.codecogs.com/latex/eqneditor.php) editor generates images that can easily be embedded in markdown documents inline.
+The [CodeCogs](https://www.codecogs.com/latex/eqneditor.php) editor generates images that can easily be embedded in markdown documents inline.  Type your latex equation in, set the render to svg, and then copy the html snippet from the bottom and embed into your markdown document.
 
 Here is an example:
 ```
